@@ -31,6 +31,9 @@ Cargo.lock
 .env.*.local
 *.pem
 *.key
+*.save
+package-lock.json
+package.json
 
 .DS_Store
 Thumbs.db
