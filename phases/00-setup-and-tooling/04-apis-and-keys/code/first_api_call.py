@@ -1,6 +1,9 @@
 import os
 import json
 import urllib.request
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def call_with_sdk():
